@@ -1,0 +1,3 @@
+http://random-status-code.herokuapp.com/
+http://caelum.com.br/
+http://alura.com.br/
